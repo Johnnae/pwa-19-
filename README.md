@@ -38,4 +38,6 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application 
 
 ### Links 
-https://github.com/Johnnae/pwa-19-.git
+https://github.com/Johnnae/pwa-19-.git 
+
+https://git.heroku.com/calm-beach-50616.git
